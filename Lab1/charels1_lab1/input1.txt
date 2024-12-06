@@ -1,0 +1,8 @@
+-+ABC
+-A+BC
+$+-ABC+D-EF
+-*A$B+C-DE*EF
+**A+BC+C-BA
+/A+BC +C*BA
+*$A+BC+C-BA
+*$A^BC+C-BA

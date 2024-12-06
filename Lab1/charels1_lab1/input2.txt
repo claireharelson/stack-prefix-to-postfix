@@ -1,0 +1,7 @@
++a*bc
+-ab
+*A+bC
++-A*bcD
++*ab*CD
+---AbCd
+-+aB+CD

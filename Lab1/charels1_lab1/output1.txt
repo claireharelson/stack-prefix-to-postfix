@@ -1,0 +1,17 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+ABC+/CBA*+
+ABC+$CBA-+*
+A$$B*CCBA-+
+
+Statement of size 6 took 26000ns to convert from prefix to postfix.
+Statement of size 6 took 14000ns to convert from prefix to postfix.
+Statement of size 12 took 26000ns to convert from prefix to postfix.
+Statement of size 14 took 29000ns to convert from prefix to postfix.
+Statement of size 12 took 25000ns to convert from prefix to postfix.
+Statement of size 12 took 25000ns to convert from prefix to postfix.
+Statement of size 12 took 26000ns to convert from prefix to postfix.
+Statement of size 11 took 25000ns to convert from prefix to postfix.

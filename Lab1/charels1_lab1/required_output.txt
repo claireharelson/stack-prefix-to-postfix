@@ -1,0 +1,6 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+ABC+/CBA*+
